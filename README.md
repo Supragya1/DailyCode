@@ -1,2 +1,2 @@
 # DailyCode
-C, JAVA, Python,Html,Css, Javascript
+C, JAVA, Python,WebDevelopment(Html,Css, Javascript).
