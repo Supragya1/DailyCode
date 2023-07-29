@@ -48,6 +48,9 @@ class Solution
             if(a[j] == a[i])
                freq++;
         }
-        return (freq > size/2) ? a[j] : -1;
+        if(freq>size/2){
+            return a[j];
+        }
+        return -1;
     }
 }
