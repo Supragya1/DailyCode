@@ -1,4 +1,4 @@
-// Binary Search
+// binarysearch_83
 // Time Complexity O(logN);
 // Space Complexity O(1)
 import java.util.*;
