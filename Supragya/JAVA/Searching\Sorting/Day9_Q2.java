@@ -1,10 +1,11 @@
 // Selectionsort_93
 // pick the smallest from array and swap it in beginning
-// 5 4 1 3 2
-// 1 5 4 3 2
-// 1 2 5 4 3 
-// 1 2 3 5 4
-// 1 2 3 4 5
+// 5 9 4 2 3 1
+// 1 9 4 2 3 5 
+// 1 2 4 9 3 5 
+// 1 2 3 9 4 5 
+// 1 2 3 4 9 5 
+// 1 2 3 4 5 9 
 import java.util.Scanner;
 
 public class Selectionsort_93 {
