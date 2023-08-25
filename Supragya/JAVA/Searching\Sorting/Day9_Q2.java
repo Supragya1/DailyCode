@@ -6,6 +6,10 @@
 // 1 2 3 9 4 5 
 // 1 2 3 4 9 5 
 // 1 2 3 4 5 9 
+// Worst Time Complexity O(N^2);
+// Average Time Complexity O(N^2);
+// Best Time Complexity O(N^2)
+// Space Complexity O(1)
 import java.util.Scanner;
 
 public class Selectionsort_93 {
