@@ -1,10 +1,19 @@
 // Bubblesort_92
-// 5 4 3 2 1   
-// 4 5 3 2 1
+// 5 4 3 2 1
+// 4 5 3 2 1 
 // 4 3 5 2 1 
-// 4 3 2 5 1
-// 4 3 2 1 5 and so on (largest move to last and again from start)
-// Time Complexity O(N^2);
+// 4 3 2 5 1 
+// 4 3 2 1 5 
+// 3 4 2 1 5 
+// 3 2 4 1 5 
+// 3 2 1 4 5 
+// 2 3 1 4 5 
+// 2 1 3 4 5 
+// 1 2 3 4 5 
+//(largest move to last and again from start)
+// Worst Time Complexity O(N^2);
+// Average Time Complexity O(N^2);
+// Best Time Complexity O(N)
 // Space Complexity O(1)
 import java.util.Scanner;
 
