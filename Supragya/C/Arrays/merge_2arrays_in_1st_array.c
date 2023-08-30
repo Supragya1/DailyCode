@@ -1,5 +1,5 @@
+// Day34_Q1.c
 //Q3 merging 2 arrays in first array
-
 #include<stdio.h>
 #include<stdlib.h>
 void scan(int a[],int n){
