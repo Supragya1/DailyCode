@@ -1,5 +1,5 @@
+// Day32_Q1.c
 //Q8 Write a program to insert a number in an array that is already sorted in ascending order.
-
 #include<stdio.h>
 int main(){
 int a[100];
@@ -12,20 +12,18 @@ int a[100];
     }
     printf("Enter the number you wanna enter\n");
     scanf("%d",&num);
-
-    for(int i=0;i<n;i++){
-        if(a[i]<num){
-            a[n]=num;
-            break;
-        }
-        if(a[i]>num){
+    int i=0;
+    for(i=0;i<n;i++){
+        if(a[i]>=num){
             for(int j = n-1;j>=i;j--){
                 a[j+1]=a[j];
             }
             a[i]=num;
             break;
         }
-            
+    }
+    if(i == n) {
+        a[n] = num; 
     }
     n++;
     printf("Array after insertion\n");
