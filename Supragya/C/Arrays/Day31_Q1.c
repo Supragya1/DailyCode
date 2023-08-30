@@ -1,4 +1,5 @@
-// Q14 Write a program to interchange the largest and the smallest number in an array.4
+// Day31_Q1.c
+// Q14 Write a program to interchange the largest and the smallest number in an array.
 #include<stdio.h>
 void scan(int a[],int n){
     for(int i=0;i<n;i++){
@@ -27,16 +28,23 @@ int largest(int a[],int n){
     return max;
 }
 
-void display(int a[],int n){
+void update(int a[],int n){
     printf("\nUpdated array is\n");
+    int min,max;
     for(int i=0;i<n;i++){
         if(a[i]==smallest(a,n)){
-        printf("%d ",largest(a,n));
+        min =i;
         }
        else if(a[i]==largest(a,n)){
-        printf("%d ",smallest(a,n));
+        max=i;
         }
-        else
+    }
+    int temp=smallest(a,n);
+    a[min]= largest(a,n);
+    a[max]=temp;
+}
+void display(int a[],int n){
+    for(int i=0;i<n;i++){
         printf("%d ",a[i]);
     }
 }
@@ -46,5 +54,6 @@ int main(){
     scanf("%d",&n);
     int a[n];
     scan(a,n);
+    update(a,n);
     display(a,n);
 }
