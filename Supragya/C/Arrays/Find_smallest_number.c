@@ -1,3 +1,4 @@
+// Day30_Q2.c
 //Q13 Write a program to read an array of n numbers and then find the smallest number.
 #include<stdio.h>
 void scan(int a[],int n){
