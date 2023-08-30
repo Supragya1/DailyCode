@@ -1,3 +1,4 @@
+// Day33_Q1.c
 //Q1 merging 2 arrays in third array
 #include<stdio.h>
 void scan(int a[],int n){
