@@ -1,3 +1,4 @@
+// Day30_Q.c
 // Q Write a program to delete a number from an array that is already sorted in ascending order.
 #include<stdio.h>
 int main(){
