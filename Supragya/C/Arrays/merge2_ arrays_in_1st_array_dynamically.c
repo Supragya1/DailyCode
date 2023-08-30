@@ -1,5 +1,5 @@
+// Day34_Q2.c
 //Q4 merging 2 arrays in first array(dynamic memory allocation)
-
 #include<stdio.h>
 #include <stdlib.h>
 void scan(int n,int array[]){
