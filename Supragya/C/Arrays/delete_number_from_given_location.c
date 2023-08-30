@@ -1,3 +1,4 @@
+// Day29_Q2.c
 // Q9 Write a program to delete a number from a given location in an array.
 #include<stdio.h>
 #include<stdlib.h>
