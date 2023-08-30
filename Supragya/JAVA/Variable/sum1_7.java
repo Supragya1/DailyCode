@@ -1,3 +1,4 @@
+// Day31_Q1.java
 // sum1_7
 import java.util.*;
 public class sum1_7{
