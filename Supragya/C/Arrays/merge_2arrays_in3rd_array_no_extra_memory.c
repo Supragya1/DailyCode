@@ -1,5 +1,5 @@
+// Day33_Q2.c
 //Q2 merging 2 arrays in third array (no extra memory)
-
 #include<stdio.h>
 #include<stdlib.h>
 void scan(int a[],int n){
