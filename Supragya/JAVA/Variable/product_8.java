@@ -1,3 +1,4 @@
+// Day31_Q2.java
 // product_8
 import java.util.*;
 public class product_8 {
