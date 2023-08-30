@@ -1,3 +1,4 @@
+// Day30_Q1.java
 // input_5
 import java.util.*; // important to write to scan 
 public class input_5{
