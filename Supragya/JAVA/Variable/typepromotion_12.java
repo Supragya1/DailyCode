@@ -1,3 +1,4 @@
+// Day33_Q2.java
 // typepromotion_12
 import java.util.*;
 public class typepromotion_12 {
