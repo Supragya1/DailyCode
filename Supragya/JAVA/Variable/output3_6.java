@@ -1,3 +1,4 @@
+//Day30_Q2.java
 // output3_6
 import java.util.*;
 public class output3_6 {
