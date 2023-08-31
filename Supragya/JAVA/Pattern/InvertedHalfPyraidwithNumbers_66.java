@@ -1,3 +1,4 @@
+
 // InvertedHalfPyraidwithNumbers_66
 import java.util.*;
 public class InvertedHalfPyraidwithNumbers_66 {
