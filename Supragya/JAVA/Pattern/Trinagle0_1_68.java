@@ -1,3 +1,4 @@
+// Day25_Q1.java
 // Trinagle0_1_68
 import java.util.*;
 public class Trinagle0_1_68 {
