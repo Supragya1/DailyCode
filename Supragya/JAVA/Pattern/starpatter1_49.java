@@ -1,3 +1,4 @@
+
 // starpatter1_49
 import java.util.*;
 public class starpatter1_49 {
