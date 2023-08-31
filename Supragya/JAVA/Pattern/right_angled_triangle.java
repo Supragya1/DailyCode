@@ -1,3 +1,5 @@
+// Day28_Q2.java
+// right_angled_triangle
 import java.util.Scanner;
 public class Pattern{
     public static void main(String[] args) {
