@@ -1,3 +1,4 @@
+// Day27_Q2.java
 // numberpyramid_73
 import java.util.*;
 public class numberpyramid_73 {
