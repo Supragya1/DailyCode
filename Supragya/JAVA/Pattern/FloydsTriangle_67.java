@@ -1,3 +1,4 @@
+// Day24_Q2
 // FloydsTriangle_67
 import java.util.*;
 public class FloydsTriangle_67 {
