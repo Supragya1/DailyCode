@@ -1,3 +1,4 @@
+// Day27_Q1.java
 // diamond_72
 import java.util.*;
 public class diamond_72 {
