@@ -1,3 +1,4 @@
+// Day23_Q2.java
 //InvertedandRotatedHalfPyramid_65
 import java.util.*;
 public class InvertedandRotatedHalfPyramid_65{
