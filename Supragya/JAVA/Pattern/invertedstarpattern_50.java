@@ -1,3 +1,4 @@
+//// Day21_Q2.java
 // invertedstarpattern_50
 import java.util.*;
 public class invertedstarpattern_50 {
