@@ -1,3 +1,4 @@
+// Day22_Q1.java
 //  halfpyramid_51
 import java.util.*;
 public class halfpyramid_51 {
