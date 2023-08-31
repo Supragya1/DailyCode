@@ -1,3 +1,4 @@
+// Day28_Q1.java
 // Palindromicpyramid_74
 import java.util.*;
 public class Palindromicpyramid_74 {
