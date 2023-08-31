@@ -1,3 +1,4 @@
+// Day26_Q2.java 
 // hollowrhombus_71 
 import java.util.*;
 public class hollowrhombus_71 {
