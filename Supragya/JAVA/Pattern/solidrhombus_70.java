@@ -1,3 +1,4 @@
+// Day26_Q1.java
 //  solidrhombus_70
 import java.util.*;
 public class solidrhombus_70 {
