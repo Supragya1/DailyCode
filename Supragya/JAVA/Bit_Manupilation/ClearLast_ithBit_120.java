@@ -1,3 +1,4 @@
+// Day18_Q1.java
 // ClearLast_ithBit_120
 import java.util.Scanner;
 
