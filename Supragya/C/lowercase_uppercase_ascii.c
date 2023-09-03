@@ -1,3 +1,4 @@
+// Day24_Q2.c
 /*Write a program to read a character and print it.
 Also print its ASCII value. If the character is in
 lower case, print it in upper case and vice versa.
