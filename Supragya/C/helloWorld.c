@@ -1,3 +1,4 @@
+// Day1_Q1.c
 //Q1 Write a program that prompts the user to enter their name and prints "HELLO, <Name>!".
 #include<stdio.h>
 #include<string.h>
