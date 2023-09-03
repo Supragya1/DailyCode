@@ -1,3 +1,4 @@
+// Day7_Q2.c
 // Hollow Diamond
 #include<stdio.h>
 int main(){
