@@ -1,4 +1,4 @@
-
+// Day25_Q2.c
 // Q16 Write a program to print the elements of a 2D array.
 
 #include<stdio.h>
