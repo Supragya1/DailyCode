@@ -1,3 +1,4 @@
+//Day2_Q1.c
 // max of 3
 // to find maximum number between 3 numbers
 #include<stdio.h>
