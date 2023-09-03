@@ -1,3 +1,4 @@
+// Day7_Q1.c
 // Dimond Pattern
 #include<stdio.h>
 int main(){
