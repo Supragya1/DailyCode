@@ -1,3 +1,4 @@
+// Day4_Q1.c
 // Check Prime number
 #include<stdio.h>
 int main()
