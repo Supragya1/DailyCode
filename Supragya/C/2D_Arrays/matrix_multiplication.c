@@ -1,3 +1,4 @@
+// Day28_Q2.c
 //Q23 Write a program to multiply two m X n matrices.
 
 #include<stdio.h>
