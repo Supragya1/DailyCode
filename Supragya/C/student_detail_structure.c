@@ -1,4 +1,5 @@
-// Structure
+// Day9_Q1.c
+// Student details using structure
 #include<stdio.h>
 #include<string.h>
 struct student{
