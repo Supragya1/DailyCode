@@ -1,3 +1,4 @@
+// Day5_Q2.c
 // Merging 2 arrays without sortion
 #include<stdio.h>
 #include <stdlib.h>
