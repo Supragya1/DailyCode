@@ -1,3 +1,4 @@
+// Day1_Q2.c
 //Write a program to calculate the sum of the digits of a three-digit number entered by the user.
 #include<stdio.h>
 int main(){
