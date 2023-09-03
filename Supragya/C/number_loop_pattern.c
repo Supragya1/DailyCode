@@ -1,3 +1,4 @@
+// Day8_Q1.c
 // number loop pattern
 /*4 4 4 4 4 4 4
   4 3 3 3 3 3 4
