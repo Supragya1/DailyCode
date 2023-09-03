@@ -1,3 +1,4 @@
+// Day1_Q2.java
 // Q2 Write a program to calculate the sum of the digits of a three-digit number entered by the user.
 import java.util.Scanner;
 public class Day1_Q2 {
