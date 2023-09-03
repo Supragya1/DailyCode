@@ -1,3 +1,4 @@
+// Day6_Q1.c
 // Merging 2 arrays with sorting
 #include<stdio.h>
 #include <stdlib.h>
