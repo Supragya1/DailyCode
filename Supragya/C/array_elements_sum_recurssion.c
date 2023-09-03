@@ -1,3 +1,4 @@
+// Day4_Q2.c
 // Sum of elements of array using reccursion
 //Q1 Find sum of all array elements using recursion.
 #include<stdio.h>
