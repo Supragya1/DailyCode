@@ -1,3 +1,4 @@
+// Day5_Q1.c
 //Q4 Find the sum of rows and columns of matrix of a given order (row x column).
 #include<stdio.h>
 int main(){
