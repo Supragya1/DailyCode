@@ -1,3 +1,4 @@
+
 // Q1 Write a program that prompts the user to enter their name and prints "HELLO, <Name>!".
 import java.util.Scanner;
 public class Day1_Q1{
