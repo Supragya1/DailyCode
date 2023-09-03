@@ -1,3 +1,4 @@
+// Day3_Q2.java
 // Jump Game(GFG)
 // Given an positive integer N and a list of N integers A[]. Each element in the array denotes the maximum length of jump you can cover. 
 //Find out if you can make it to the last index if you start at the first index of the list.
