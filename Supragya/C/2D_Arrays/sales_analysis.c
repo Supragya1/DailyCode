@@ -1,4 +1,4 @@
-
+// Day26_Q1.c
 // Q18 In a small company there are five salesmen. Each salesman is supposed to sell three
 // products. Write a program using a 2D array to print (i) the total sales by each salesman
 // and (ii) total sales of each item.
