@@ -5,7 +5,7 @@
 //  objectname.toString(); to convert to string int cant be converted but Integer can char cannot but Character can etc
 import java.util.Scanner;
 
-public class Uppecase_111{
+public class Uppercase_111{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the string");
