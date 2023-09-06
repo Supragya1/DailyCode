@@ -1,4 +1,4 @@
-// Day42_Q1.c
+// Day42_Q2.c
 //Q1 merging 2 arrays in third array and sort the third array
 #include<stdio.h>
 int main(){
