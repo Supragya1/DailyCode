@@ -1,5 +1,6 @@
 // Day42_Q2.c
-//Q1 merging 2 arrays in third array and sort the third array
+//Q1 merging 2 unsorted arrays in third array and sort the third array
+// merge then sort
 #include<stdio.h>
 int main(){
     printf("Enter the size of array 1\n");
