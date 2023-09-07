@@ -1,3 +1,4 @@
+// Day19_Q1.c
 // 2Stack_1array_b
 //Q 2 stack in 1 array  ->  <-
 //Q 2stack in 1 array divide array in two parts
