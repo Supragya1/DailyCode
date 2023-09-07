@@ -1,4 +1,4 @@
-//Q make 2 stacks in one programs.
+// Day18_Q2.c
 //Q make 2 stacks in one programs.
 #include<stdio.h>
 #include<stdlib.h>
