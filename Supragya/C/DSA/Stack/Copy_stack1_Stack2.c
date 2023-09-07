@@ -1,3 +1,4 @@
+// Day18_Q1.c
 //Copy_stack1_Stack2
 //Q Copy stack 1 into stack2 using push and pop element only
 #include<stdio.h>
