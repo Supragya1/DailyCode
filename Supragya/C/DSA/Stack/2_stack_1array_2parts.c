@@ -1,3 +1,4 @@
+// Day19_Q2.c
 // 2Stack_1array
 //Q 2stack in 1 array divide array in two parts
 //Q make 2 stacks in one programs.
