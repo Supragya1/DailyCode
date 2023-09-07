@@ -1,4 +1,4 @@
-
+// Day21_Q2.c
 // Linear Search
 #include<stdio.h>
 int main(){
