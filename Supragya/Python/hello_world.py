@@ -1,3 +1,4 @@
+# Day1_Q2.py
 # Write a Python program that takes a sentence as input and prints the reverse of each word in the sentence. 
 # For example, if the input is "Hello World!", the output should be "olleH dlroW!"
 sentence = input("Enter a sentence ")
