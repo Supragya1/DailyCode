@@ -1,3 +1,4 @@
+# Day6_Q1.py
 ''' Whats Your Name Hackerrank'''
 def print_full_name(first, last):
     # Write your code here
