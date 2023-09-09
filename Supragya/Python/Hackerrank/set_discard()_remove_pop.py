@@ -1,3 +1,4 @@
+# Day18_Q2.py
 '''Set .discard(), .remove() & .pop() Hackerrank'''
 n = int(input())
 s = set(map(int, input().split()))
