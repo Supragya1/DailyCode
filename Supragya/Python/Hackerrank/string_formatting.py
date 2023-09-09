@@ -1,3 +1,4 @@
+# Day11_Q1.py
 ''' String Formatting Hackerrank'''
 def print_formatted(number):
     width = len(bin(number)[2:])
