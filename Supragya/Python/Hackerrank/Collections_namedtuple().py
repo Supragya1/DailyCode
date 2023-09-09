@@ -1,3 +1,4 @@
+# Day16_Q2.py
 ''' Collections.namedtuple() Hackerrank'''
 from collections import namedtuple
 n = int(input())
