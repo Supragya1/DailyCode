@@ -1,3 +1,4 @@
+# Day5_Q2.py
 ''' String Split and Join hackerrank'''
 def split_and_join(line):
     line = line.split(" ")
