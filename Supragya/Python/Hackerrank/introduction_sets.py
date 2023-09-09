@@ -1,3 +1,4 @@
+#Day13_Q1.py
 ''' Introduction to Sets Hackerrank '''
 def average(array):
     return sum(set(array))/len(set(array))
