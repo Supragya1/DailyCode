@@ -1,3 +1,4 @@
+# Day18_Q1.py
 ''' Set .add() Hackerrank'''
 n=int(input())
 se={''}
