@@ -1,3 +1,4 @@
+# Day17_Q2.py
 ''' itertools.combinations() Hackerrank '''
 from itertools import combinations
 word , length  = input().split()
