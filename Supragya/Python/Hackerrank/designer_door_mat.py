@@ -1,3 +1,4 @@
+# Day10_Q2.py
 ''' Designer Door Mat Hackerrank '''
 n, m = map(int,input().split())
 for i in range(n//2):
