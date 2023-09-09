@@ -1,3 +1,4 @@
+#Day13_Q2.py
 ''' Symmetric Difference Hackerrank '''
 n1 = int(input())
 set_a = set(map(int,input().split()))
