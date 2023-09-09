@@ -1,3 +1,4 @@
+# Day4_Q2.py
 # Finding The Percentage Hackerrank
 if __name__ == '__main__':
     n = int(input())
