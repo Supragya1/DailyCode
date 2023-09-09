@@ -1,3 +1,4 @@
+# Day9_Q2.py
 ''' Text Alignment Hackerank '''
 thickness = int(input()) #This must be an odd number
 c = 'H'
