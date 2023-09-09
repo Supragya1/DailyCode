@@ -1,3 +1,4 @@
+# Day7_Q2.py
 ''' Tuples Hackerrank'''
 if __name__ == '__main__':
     n = int(input())
