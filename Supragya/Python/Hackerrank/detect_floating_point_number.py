@@ -1,3 +1,4 @@
+# Day25_Q2.py
 ''' Detect Floating Point Number Hackerrank '''
 N = int(input())
 for n in range(N):
