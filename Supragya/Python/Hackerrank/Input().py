@@ -1,3 +1,4 @@
+# Day26_Q1.py 
 ''' Input() Hackerrank '''
 values = list(map(int, input().split()))
 P = input()
