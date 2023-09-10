@@ -1,3 +1,4 @@
+# Day23_Q2.py
 ''' The Captain's Room Hackerrank '''
 import operator as op
 k = int(input())
