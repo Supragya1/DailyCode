@@ -1,3 +1,4 @@
+# Day25_Q1.py
 ''' Map and Lambda Function Hackerrank '''
 cube = lambda x:x**3 
 def fibonacci(n):
