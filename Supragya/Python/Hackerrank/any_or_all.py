@@ -1,3 +1,4 @@
+# Day24_Q1.py
 ''' Any or All Hackerrank '''
 N =  int(input())
 M = input().split()
