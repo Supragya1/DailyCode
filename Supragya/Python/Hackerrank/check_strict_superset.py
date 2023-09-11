@@ -1,3 +1,4 @@
+# Day29_Q2.py
 ''' Check Strict Superset Hackerrank'''
 setA = set(map(int, input().split()))
 n = int(input())
