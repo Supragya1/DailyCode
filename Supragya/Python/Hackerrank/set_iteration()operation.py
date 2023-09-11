@@ -1,3 +1,4 @@
+# Day27_Q2.py
 ''' Set .intersection() Operation Hackerrank '''
 N = int(input())
 A = set(map(int, input().split()))
