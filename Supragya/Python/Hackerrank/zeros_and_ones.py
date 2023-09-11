@@ -1,3 +1,4 @@
+# Day31_Q1.py
 ''' Zeros and Ones Hackerrank'''
 import numpy
 N = list(map(int,input().split()))
