@@ -1,3 +1,4 @@
+# Day30_Q2.py
 ''' Shape and Reshape Hackerrank '''
 import numpy
 
