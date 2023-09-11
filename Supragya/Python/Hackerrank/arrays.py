@@ -1,3 +1,4 @@
+# Day30_Q1.py
 ''' Arrays Hackerrank '''
 import numpy 
 def arrays(arr):
