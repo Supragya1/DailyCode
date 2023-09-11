@@ -1,3 +1,4 @@
+# Day28_Q1.py
 ''' Zipped! Hackerrank '''
 stu,sub=map(int,input().split(" "))
 stus=[0]*stu
