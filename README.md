@@ -29,12 +29,13 @@ If you'd like to contribute to this repository, here's how you can do it:
 1. **Fork the Repository:** Click the "Fork" button at the top-right corner of the repository to create your own copy.
 
 2. **Clone Your Fork:** Clone your forked repository to your local machine using the following command:
-3. **Repo Link** https://github.com/Supragya1/DailyCode.git
-4. **Create a New Branch:** Before making changes, create a new branch to work on. This helps keep your changes separate from the main branch:
-5. **Make Changes:** Add your code snippets or make improvements to the existing ones.
-6. **Commit and Push:** After making your changes, commit them and push them to your forked repository:
-7. **Create a Pull Request:** Go to the original repository on GitHub and create a pull request from your forked repository's branch to the main branch of the original repository.
-8. **Review and Merge:** Your pull request will be reviewed by the repository owner. Once approved, your changes will be merged into the main repository.
+3. **Repo Link** https://github.com/Supragya1/DailyCode
+4. **Where To Contribute** Make a folder of your name in the "United_Comunnity" directory. This is where you can organize your contributions. Inside your folder, you can add code snippets or projects related to your preferred programming language or topic. This organization will help keep the repository well-structured and make it easier for others to discover and explore your contributions. 
+5. **Create a New Branch:** Before making changes, create a new branch to work on. This helps keep your changes separate from the main branch:
+6. **Make Changes:** Add your code snippets or make improvements to the existing ones.
+7. **Commit and Push:** After making your changes, commit them and push them to your forked repository:
+8. **Create a Pull Request:** Go to the original repository on GitHub and create a pull request from your forked repository's branch to the main branch of the original repository.
+9. **Review and Merge:** Your pull request will be reviewed by the repository owner. Once approved, your changes will be merged into the main repository.
 ## License
 This repository is open-source and available under the [MIT License](LICENSE).
 Feel free to reach out if you have any questions or ideas!
