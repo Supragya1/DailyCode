@@ -104,8 +104,8 @@ int main() {
     //result of recursive binary search
     int result = recursive_binary_search(arr, 0, number_of_elements-1, search);
     (result == -1) 
-        ? cout << "Element not present" 
-        : cout << "Element present at index " << result+ 1;
+        ? cout << "Element not present"<< endl 
+        : cout << "Element present at index " << result<<endl;
 
     //result of iterative binary search
      result = iterative_binary_search(arr, 0, number_of_elements-1, search);
