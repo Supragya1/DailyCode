@@ -19,4 +19,3 @@ int main()
         printf("The strings are not equal\n");
     }
 }
-// What is the difference between strcpy() and strcat()?

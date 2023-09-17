@@ -1,3 +1,4 @@
+// Day 53_Q2.c
 // Write a program to compare two strings without using inbuilt function.
 #include <stdio.h>
 int main()
