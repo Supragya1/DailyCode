@@ -108,7 +108,7 @@ int main() {
         : cout << "Element present at index " << result+ 1;
 
     //result of iterative binary search
-    int result = iterative_binary_search(arr, 0, number_of_elements-1, search);
+     result = iterative_binary_search(arr, 0, number_of_elements-1, search);
     (result == -1) 
         ? cout << "Element not present" 
         : cout << "Element present at index " << result + 1;
