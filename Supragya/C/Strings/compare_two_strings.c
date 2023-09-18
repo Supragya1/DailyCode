@@ -1,7 +1,6 @@
-// Day52_Q2.c
-// Write a C program to compare two strings using inbuilt function.
+// Day 53_Q2.c
+// Write a program to compare two strings without using inbuilt function.
 #include <stdio.h>
-#include <string.h>
 int main()
 {
     char str1[100], str2[100];
@@ -9,8 +8,17 @@ int main()
     scanf("%s", str1);
     printf("Enter the second string\n");
     scanf("%s", str2);
-    int res = strcmp(str1, str2);
-    if (res == 0)
+    int i = 0, flag = 0;
+    while (str1[i] != '\0' && str2[i] != '\0')
+    {
+        if (str1[i] != str2[i])
+        {
+            flag = 1;
+            break;
+        }
+        i++;
+    }
+    if (flag == 0)
     {
         printf("The strings are equal\n");
     }
