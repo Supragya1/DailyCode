@@ -1,5 +1,5 @@
 // Day54_Q2.java
-// palindrome_upto_range_n_42.java
+//  palindrome_upto_range_n_42.java
 import  java.util.*;
 public class palindrome_upto_range_n_42 {
     public static void main(String[]args){
