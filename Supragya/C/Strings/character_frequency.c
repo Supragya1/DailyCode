@@ -1,5 +1,5 @@
 // Day57_Q1.c
-// Write a program to find the frequency of each character in a string.
+// Write a program to find the frequency of each character(alphabets only) in a string.
 #include <stdio.h>
 #include <string.h>
 int main()
