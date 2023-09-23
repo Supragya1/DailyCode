@@ -23,6 +23,7 @@ int main() {
         }
         else {
             answer += to_string(sum);
+            sum-=sum;
         }
     num_dig--;
     }
