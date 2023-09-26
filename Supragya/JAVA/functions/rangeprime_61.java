@@ -1,5 +1,5 @@
 // Day62_Q1.java
-// rangeprime_61.java
+//rangeprime_61.java
 import java.util.*;
 public class rangeprime_61 {
 
