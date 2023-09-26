@@ -1,4 +1,4 @@
-// Day61_Q2.java
+// Day62_Q2.java
 // binarytodecimal_62.java
 import java.util.*;
 public class binarytodecimal_62 {
