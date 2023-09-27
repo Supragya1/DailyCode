@@ -1,5 +1,7 @@
+// Day63_Q2.java
+// binarytodecimal_64.java
 import java.util.*;
-public class b62_63{
+public class b62_64{
     public static int binary_decimal(int binary){
         int ld,decimal=0,i=0;
         while(binary!=0){
