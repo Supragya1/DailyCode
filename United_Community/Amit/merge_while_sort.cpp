@@ -66,14 +66,16 @@ for (int i = 0; i < number_of_elements_2; i++) {
 
 int arr3[number_of_elements_1 + number_of_elements_2];
 
-int max1, max2;
+int max1 = 0, max2 = 0;
 for (int i = 0; i < number_of_elements_1; i++) {
-    if (arr1[i] > arr1[i+1]);
+    if (arr1[i] > arr1[max1]){
     max1 = i;
+    }
 }
 for (int i = 0; i < number_of_elements_2; i++) {
-    if (arr2[i] > arr2[i+1]);
+    if (arr2[i] > arr2[max2]) {
     max2 = i;
+    }
 }
 if (arr1[max1] > arr2[max2]) {
 swap(arr1[max1], arr2[max2]);
