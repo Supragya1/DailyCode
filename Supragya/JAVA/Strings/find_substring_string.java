@@ -1,7 +1,7 @@
 // Day69_Q1.java
 // Write a program to find how many times a given string appears in a given sentence as a substring.
 import java.util.*;
-public class a {
+public class find_substring_string {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the sentence: ");
