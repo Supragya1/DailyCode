@@ -12,7 +12,7 @@ struct book{
 int main(){
     struct book b;
     printf("Enter the title of the book: ");
-    scanf("%[^\n]%*c",b.title);
+    scanf("%[^\n]%*c",b.title);//%[^\n]%*c is used to take input with spaces
     printf("Enter the author of the book: ");
     scanf("%[^\n]%*c",b.author);
     printf("Enter the price of the book: ");
