@@ -1,3 +1,4 @@
+// Day70_Q2.java
 // Write a java program in which you have to take a paragraph as an input and then check for every individual word.
 // if length of a word is greater than 3 then except 1st and last letter jumble the inbetween letters.
 import java.util.*;
@@ -22,3 +23,4 @@ public class jumble_words {
         }
     }
 }
+ 
