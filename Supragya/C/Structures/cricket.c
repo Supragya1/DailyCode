@@ -22,7 +22,7 @@ int main(){
         scanf("%[^\n]%*c",player[i].team_name);
         printf("Enter the batting average of the player: ");
         scanf("%f",&player[i].batting_average);
-        getchar();
+        getchar();//to clear the buffer
     }
     printf("The list of players with their batting average is as follows:\n");
     for(i=0;i<3;i++){
