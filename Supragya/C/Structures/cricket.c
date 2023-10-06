@@ -15,7 +15,7 @@ struct cricket{
 int main(){
     struct cricket player[50];
     int i;
-    for(i=0;i<3;i++){
+    for(i=0;i<50;i++){
         printf("Enter the name of the player: ");
         scanf("%[^\n]%*c",player[i].player_name);
         printf("Enter the name of the team: ");
@@ -25,7 +25,7 @@ int main(){
         getchar();//to clear the buffer
     }
     printf("The list of players with their batting average is as follows:\n");
-    for(i=0;i<3;i++){
+    for(i=0;i<50;i++){
         printf("Player name: %s\n",player[i].player_name);
         printf("Team name: %s\n",player[i].team_name);
         printf("Batting average: %f\n",player[i].batting_average);
