@@ -48,6 +48,9 @@ int main()
         fclose(fp1);
         exit(0);
     }
+    int key;
+    printf("Enter the key\n");
+    scanf("%d",&key);
     while (1)
     {
         ch = fgetc(fp1);
@@ -55,39 +58,12 @@ int main()
             break;
         else
         {
-            ch = ch + 10;
+            ch = ch + key;
             fputc(ch, fp2);
         }
     }
     fclose(fp1);
     fclose(fp2);
     printf("Encryption complete.\n");
-
-    // fp1 = fopen("file1.txt", "w");
-    // if (fp1 == NULL)
-    // {
-    //     printf("File does not exist..");
-    //     exit(0);
-    // }
-    // fp2 = fopen("file2.txt", "r");
-    // if (fp2 == NULL)
-    // {
-    //     printf("File does not exist..");
-    //     fclose(fp1);
-    //     exit(0);
-    // }
-    // while (1)
-    // {
-    //     ch = fgetc(fp2);
-    //     if (ch == EOF)
-    //         break;
-    //     else
-    //     {
-    //         ch = ch - 100;
-    //         fputc(ch, fp1);
-    //     }
-    // }
-    // fclose(fp1);
-    // fclose(fp2);
     return 0;
 }
