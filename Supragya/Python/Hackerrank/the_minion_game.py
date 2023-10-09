@@ -1,5 +1,5 @@
 # Day55_Q2.py
-# '''The Minion Game Hackerrank'''
+'''The Minion Game Hackerrank'''
 def minion_game(string):
     stuart = 0
     kevin = 0
