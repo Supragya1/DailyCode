@@ -1,9 +1,5 @@
-'''Name Supragya Gandotra
-Sap id 500107073
-batch 20'''
-#date 25-1-2023
-
-# Practice code 1
+# Day59_Q2.py
+# Practic.e code 1
 '''num = int(input("Enter the value of num "))
 while(num>0 and num<=5):
     print(num)
