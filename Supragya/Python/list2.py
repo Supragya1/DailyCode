@@ -1,4 +1,4 @@
-# Day62_Q2.py
+# Day61_Q2.py
 #Practice COde 1
 '''list1 = [23,53,65,89,65]
 for el in list1:
