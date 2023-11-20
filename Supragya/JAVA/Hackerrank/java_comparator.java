@@ -21,7 +21,7 @@ class Player{
     }
 }
 
-class Solution {
+public class java_comparator {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
