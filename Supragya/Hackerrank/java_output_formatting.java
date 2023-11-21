@@ -10,7 +10,7 @@ public class java_output_formatting{
             for(int i=0;i<3;i++){
                 String s1=scan.next();
                 int x=scan.nextInt();
-                System.out.printf("%-15s%03d\n",s1,x);
+                System.out.printf("%-15s%03d\n",s1,x);// here %-15 means left aligned and 15 is the minimum width of the string s for string %03d means minimum 3 digit integer.
             }
             System.out.println("================================");
     }
