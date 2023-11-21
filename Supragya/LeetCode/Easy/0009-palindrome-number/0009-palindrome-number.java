@@ -1,4 +1,4 @@
-// Day104_Q1.java
+//Day104_Q1.java
 class Solution {
     public boolean isPalindrome(int x) {
         if(x<0){
