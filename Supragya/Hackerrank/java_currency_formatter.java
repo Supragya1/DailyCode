@@ -7,7 +7,8 @@ public class java_currency_formatter {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double payment = scan.nextDouble();
-        Locale indiaLocale = new Locale("en", "IN");
+        //Locale indiaLocale = new Locale("en", "IN");
+        Locale indiaLocale = new Locale.Builder().setLanguage("en").setRegion("IN").build();
         NumberFormat us     = NumberFormat.getCurrencyInstance(Locale.US);
         NumberFormat india  = NumberFormat.getCurrencyInstance(indiaLocale);
         NumberFormat china  = NumberFormat.getCurrencyInstance(Locale.CHINA);
