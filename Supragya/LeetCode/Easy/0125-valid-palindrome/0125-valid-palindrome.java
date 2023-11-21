@@ -1,20 +1,24 @@
 // Day104_Q2.java
 class Solution {
     public boolean isPalindrome(String s) {
-        String str = "";
-        for(int i=0;i<s.length();i++){
-            if((s.charAt(i)>='a'&&s.charAt(i)<='z')||(s.charAt(i)>='0'&&s.charAt(i)<='9')){
-                str+=s.charAt(i);
-            }
-            else if(s.charAt(i)>='A'&&s.charAt(i)<='Z'){
-                str+=Character.toLowerCase(s.charAt(i));
-            }
-        }
-        for(int i=0;i<str.length()/2;i++){
-            if(str.charAt(i)!=str.charAt(str.length()-1-i)){
+    s=s.toLowerCase();
+    int left=0;
+    int right =s.length()-1;
+    while(left<right){
+        if(!((s.charAt(left)>='a'&&s.charAt(left)<='z')||(s.charAt(left)>='0'&&s.charAt(left)<='9'))){
+              left++;
+          }
+        else if(!((s.charAt(right)>='a'&&s.charAt(right)<='z')||(s.charAt(right)>='0'&&s.charAt(right)<='9'))){
+              right--;
+          }
+        else{
+            if(s.charAt(left)!=s.charAt(right)){
                 return false;
             }
+            left++;
+            right--;
         }
+    }
         return true;
     }
 }
