@@ -1,18 +1,19 @@
 import java.util.Scanner;
 
-public class PalindromeNumber {
+public class day_1_PalindromeNumber {
     public static boolean isPalindrome(int x) {
-        int sum = 0, temp = x;
+        int sum = 0;
         
-        if (x < 0) {
+        if (x < 0 || (x != 0 && x % 10 == 0)) {
             return false;
         }
-        while (temp != 0) {
-            sum = temp % 10 + sum*10;
-            temp /= 10;
+        
+        while (x > sum) {
+            sum = x % 10 + sum*10;
+            x /= 10;
         }
-        return (x == sum);
-    } 
+        return ((x == sum) || (x==sum/10));
+    }
     
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
