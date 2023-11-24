@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class day_1_PalindromeNumber {
     public static boolean isPalindrome(int x) {
