@@ -1,7 +1,7 @@
-import java.util.Scanner;
+//https://leetcode.com/problems/valid-palindrome/
 
-public class day_1_PalindromeSting {
-    public static boolean isPalindrome(String s) {
+class Solution {
+    public boolean isPalindrome(String s) {
         s = s.toLowerCase();
         int right = s.length() - 1, left = 0;
         while (left < right) {
@@ -19,14 +19,4 @@ public class day_1_PalindromeSting {
         }
         return true;
     }
-
-    public static void main (String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String s;
-
-        System.out.print("Enter The string : ");
-        s = sc.next();
-        System.out.print(isPalindrome(s));
-    }
-    
 }
