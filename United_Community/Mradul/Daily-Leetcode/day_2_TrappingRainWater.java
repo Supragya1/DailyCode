@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/trapping-rain-water/
+
 class Solution {
     public int trap(int[] h) {
         int n = h.length, water = 0;
