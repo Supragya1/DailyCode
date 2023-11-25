@@ -23,7 +23,7 @@
 
 🏆 **Current Streak:** 4 days  
 💡 **Tip of the Day:** "Consistency is the key to mastering any skill. Keep coding!" 🚀  
-📈 **Progress Chart:** [Supragya-LeetCode](https://leetcode.com/Supragya1/) 📊
+📈 **Progress Chart:** [Supragya-LeetCode](https://leetcode.com/Supragya1/) 📊  
 🏁 **Total Questions Solved:** 11
 
 Keep coding, rockstar! 💻✨
