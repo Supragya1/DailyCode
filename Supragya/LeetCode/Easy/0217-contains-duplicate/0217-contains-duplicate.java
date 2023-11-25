@@ -1,5 +1,6 @@
 // Day105_Q2.java
 // Using Hashset
+import java.util.*;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
