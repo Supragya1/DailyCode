@@ -1,20 +1,18 @@
 // Day106_Q1.java
-// in 2d binary search for finding midvalue fomula is arr[midindex/col][midindex%col]
+//StairCase Search
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int rows=matrix.length,col = matrix[0].length;
-        int left=0,right=rows*col-1;
-        while(left<=right){
-            int mid = left+ (right-left)/2;
-            int midval = matrix[mid/col][mid%col];
-            if(target==midval){
+        int row =matrix.length-1;
+        int col = 0;
+        while(row>=0 && col<matrix[0].length){
+            if(target==matrix[row][col]){
                 return true;
             }
-            if(target>midval){
-                left = mid+1;
+            else if(target>matrix[row][col]){
+                col++;
             }
             else{
-                right =mid-1;
+                row--;
             }
         }
         return false;
