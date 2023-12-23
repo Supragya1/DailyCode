@@ -1,5 +1,5 @@
 // Binary Search
-we can apply binary search here because 2d array is fully sorted
+// we can apply binary search here because 2d array is fully sorted
 // in 2d binary search for finding midvalue fomula is arr[midindex/col][midindex%col]
 class Solution {
 public boolean searchMatrix(int[][] matrix, int target) {
