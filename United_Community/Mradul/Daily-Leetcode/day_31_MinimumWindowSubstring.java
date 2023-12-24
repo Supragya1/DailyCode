@@ -2,7 +2,8 @@
 
 
 class Solution {
-    /* Approach: 
+    /*
+     *  Approach: 
      *  take the frequency of t
      *  compare it in the window 
      *  if it works, it can find the minimum one among them
