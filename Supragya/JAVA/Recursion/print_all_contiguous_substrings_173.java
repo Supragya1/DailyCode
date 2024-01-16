@@ -1,4 +1,4 @@
-// Day128_Q2.java
+// Day128_Q2.java 
 // Write a program to print all the contiguous substrings of a given string .
 import java.util.Scanner;
 public class print_all_contiguous_substrings_173 {
