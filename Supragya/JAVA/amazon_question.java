@@ -1,3 +1,4 @@
+// Day129_Q1.java
 /*Code Question 1
 Amazon is developing an efficient string matching library. Develop a prototype service that matches a simple pattern with a text.
 There are two arrays of strings, text, and pat, each of size n. Each string in pat is a regex expression that contains exactly 
@@ -82,7 +83,7 @@ Explanation
 
 The prefixes and suffixes must match. The suffix in text[1] is "rnak" */
 import java.util.*;
-public class test {
+public class amazon_question {
     public static List<String> matchStrings(String[] text, String[] pat) {
         List <String> ans = new ArrayList<>();
         for (int i = 0; i < text.length; i++) {
